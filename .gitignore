@@ -24,4 +24,4 @@ yarn-error.log*
 
 package.json
 package-lock.json
-.gitignore
+
